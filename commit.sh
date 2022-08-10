@@ -3,7 +3,7 @@
 BASEDIR=$(dirname "$0")
 
 # select gitmoji
-GITMOJI=$(cat $BASEDIR/data/gitmoji.txt | gum filter --placeholder="Choose gitmoji" --height=5)
+GITMOJI=$(cat $BASEDIR/data/gitmoji.txt | gum filter --placeholder=" Choose gitmoji" --height=5)
 test -n "$GITMOJI" && SCOPE="($GITMOJI)"
 
 # compose commit message
