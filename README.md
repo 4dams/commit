@@ -6,7 +6,7 @@ Made and maintained with 💚 by [@4dams – Juri Adams](https://github.com/4dam
 
 ## Preview
 
-Coming soon.
+[![demo](https://asciinema.org/a/513917.svg)](https://asciinema.org/a/513917?autoplay=1)
 
 ## Getting Started
 
