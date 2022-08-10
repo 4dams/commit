@@ -1,0 +1,17 @@
+{
+    "name": "commit",
+    "version": "1.0.0",
+    "description": "A CLI used to pick the perfect gitmoji ⚡",
+    "main": "src/generate.js",
+    "repository": "https://github.com/4dams/commit",
+    "author": "Juri Adams <juri@adams.sh>",
+    "license": "MIT",
+    "type": "module",
+    "scripts": {
+        "dev": "node src/generate.js"
+    },
+    "dependencies": {
+        "consola": "^2.15.3",
+        "node-fetch": "^3.2.10"
+    }
+}
